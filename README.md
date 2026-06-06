@@ -22,6 +22,8 @@ Array & String: Menyimpan kumpulan kata, riwayat tebakan salah, dan manipulasi t
 Algoritma Pengurutan (Sorting): Mengurutkan skor tertinggi pemain untuk fitur Leaderboard.
 Modularitas: Memisahkan fungsi-fungsi spesifik agar main program (program utama) tetap bersih dan mudah dibaca.
 
+Screenshoot: https://drive.google.com/drive/folders/1CqqzRKkiPGtWi6Bwm6FGD2oqcVEfaR1C?usp=sharing
+
 
 (-) Projek 3: 
 Deskripsi Projek:
